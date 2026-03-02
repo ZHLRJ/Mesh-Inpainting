@@ -1,8 +1,9 @@
-# Neural MeshImplant: Data-Free Learning for Mesh Repair
+
 
 Official implementation of the paper:
 
-**Neural MeshImplant: Data-Free Learning for Mesh Repair**
+**Data-Free Neural Mesh Inpainting: Preserving Topology and
+Geometry**
 
 ---
 
